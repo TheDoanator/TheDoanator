@@ -14,4 +14,4 @@ I’m building in two main directions:
 - **Cybersecurity** - secure coding, system analysis, and hands-on labs to sharpen defensive skills.  
 
 ## 📫 Connect  
-- [LinkedIn]([https://www.linkedin.com/in/kevin-doan](https://www.linkedin.com/in/kevindoann/)) 
+- [LinkedIn](https://www.linkedin.com/in/kevindoann/)
